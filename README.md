@@ -1,1 +1,1 @@
-# hi kitten
+# COMP 345 project
